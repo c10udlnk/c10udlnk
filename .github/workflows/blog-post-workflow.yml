@@ -16,5 +16,3 @@ jobs:
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://c10udlnk.top/atom.xml"
-          max_post_count: 10
-          template: "[🎇 $date: $title]($url)"
