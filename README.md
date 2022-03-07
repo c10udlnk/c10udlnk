@@ -10,7 +10,7 @@
 
 🧭 majoring in **Cyberspace Security**.
 
-🕹 an Overwatch support💉 player and various music games🎼 (almost all, I think) lover!!!
+🕹 a various music games🎼 (almost all, I think) lover and Overwatch support💉 player (often Mercy).
 
 😵 suffering from face blindness, plz plz plz forgive me if I can't recognize you in time. QAQ
 
