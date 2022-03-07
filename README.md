@@ -31,5 +31,10 @@
 <details>
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blueviolet?style=for-the-badge"></summary>
 <!-- BLOG-POST-LIST:START -->
+- [【wp】2022SUSCTF](https://c10udlnk.top/p/wpFor-2022SUSCTF/)
+- [【wp】2022TQLCTF](https://c10udlnk.top/p/wpFor-2022TQLCTF/)
+- [【wp】HWS计划2022硬件安全冬令营线上选拔赛](https://c10udlnk.top/p/wpFor-2022HWSTrial/)
+- [Reading Code rapidly](https://c10udlnk.top/p/blogsFor-ComSec-readingCodes/)
+- [【wp】2021Sloth选拔赛](https://c10udlnk.top/p/wpFor-2021SlothTrial/)
 <!-- BLOG-POST-LIST:END -->
 </details>
