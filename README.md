@@ -31,7 +31,7 @@
 <details>
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blueviolet?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
-  
+
 🎇 Mar 02, 2022: [【wp】2022SUSCTF](https://c10udlnk.top/p/wpFor-2022SUSCTF/)
 
 🎇 Feb 23, 2022: [【wp】2022TQLCTF](https://c10udlnk.top/p/wpFor-2022TQLCTF/)
@@ -50,6 +50,5 @@
 
 🎇 Sep 24, 2021: [WSL/WSL2迁移笔记](https://c10udlnk.top/p/blogsFor-migrating-wsl/)
 
-🎇 Aug 01, 2021: [【wp】2021DASCTF July X CBCTF 4th](https://c10udlnk.top/p/wpFor-2021JulyDASCTF/)
-<!-- BLOG-POST-LIST:END -->
+🎇 Aug 01, 2021: [【wp】2021DASCTF July X CBCTF 4th](https://c10udlnk.top/p/wpFor-2021JulyDASCTF/)<!-- BLOG-POST-LIST:END -->
 </details>
