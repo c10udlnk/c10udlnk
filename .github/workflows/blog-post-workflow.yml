@@ -16,5 +16,5 @@ jobs:
         with:
           feed_list: "https://c10udlnk.top/atom.xml"
           max_post_count: 10
-          template: "$newline🎇 $date: [$title]($url)$newline"
+          template: "$newline$newline🎇 $date: [$title]($url)"
           date_format: mmm dd, yyyy
