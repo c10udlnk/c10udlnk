@@ -30,6 +30,8 @@
 
 <details>
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blueviolet?style=for-the-badge"></summary>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </details>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
