@@ -6,7 +6,7 @@
 
 ## I'm ...
 
-🚩 a **CTFer** from SCNU, concentrating on <img src="https://img.shields.io/static/v1?label=⏳&&message=Reverse&style=social"> and <img src="https://img.shields.io/static/v1?label=🔮&message=Misc&style=social">, probably a little <img src="https://img.shields.io/static/v1?label=🔌&message=Hardware&style=social">.
+🚩 a **CTFer** from SCNU, concentrating on <img src="https://img.shields.io/static/v1?label=&&message=Reverse&style=social"> and <img src="https://img.shields.io/static/v1?label=&message=Misc&style=social">, probably a little <img src="https://img.shields.io/static/v1?label=&message=Hardware&style=social">.
 
 🧭 majoring in **Cyberspace Security**.
 
