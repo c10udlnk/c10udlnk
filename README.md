@@ -2,7 +2,7 @@
 
 # 🎆Hey! c10udlnk here. =v=
 
-<a href="https://c10udlnk.top/" target="_blank"><img src="https://img.shields.io/badge/-📜 c10udlnk's Blog-blueviolet?style=flat-square"></a><a href="https://tover.xyz/" target="_blank"><img src="https://img.shields.io/badge/-📜 Tover's Blog-blue?style=flat-square"></a><a href="https://github.com/c10udlnk" target="_blank"><img src="https://img.shields.io/badge/-github-black?logo=github&style=flat-square"></a><a href="https://0xffff.one/u/c10udlnk" target="_blank"><img src="https://img.shields.io/badge/-💻 0xffff-e8ecf3?style=flat-square"></a>&emsp;<img src="https://komarev.com/ghpvc/?username=c10udlnk&style=plastic&color=ffccee" />
+<a href="https://c10udlnk.top/" target="_blank"><img src="https://img.shields.io/badge/-📜 c10udlnk's Blog-blueviolet?style=flat-square"></a><a href="https://tover.xyz/" target="_blank"><img src="https://img.shields.io/badge/-📜 Tover's Blog-blue?style=flat-square"></a><a href="https://github.com/c10udlnk" target="_blank"><img src="https://img.shields.io/badge/-github-black?logo=github&style=flat-square"></a><a href="https://0xffff.one/u/c10udlnk" target="_blank"><img src="https://img.shields.io/badge/-💻 0xffff-e8ecf3?style=flat-square"></a>&emsp;<img src="https://komarev.com/ghpvc/?username=c10udlnk&style=plastic&color=red" />
 
 ## I'm ...
 
